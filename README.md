@@ -9,6 +9,6 @@ I have just created a basic example.
 In the project directory, you can run:
 ### `npm install`
 then
-### `npm run dev OR nom start` 
+### `npm run dev OR npm start` 
 
 Runs the app in the development mode.
